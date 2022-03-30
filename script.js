@@ -23,11 +23,14 @@ $button.on('click', ()  => {
 
     $(".imageholder").children().remove()})
     // removes image from image holder to add the next image
-
+    
+     
 
  $('#title').text(data.title);
  $('#name').text(data.name);
  $('#weight').text(data.weight);
+ $('#id').text(data.id);
+
  })
 
  });

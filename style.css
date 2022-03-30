@@ -1,23 +1,41 @@
+
 body {
-  background-color: black;
+  margin: auto;
+  background: linear-gradient(#e66465, #9198e5 );
   color: aliceblue;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
+  border: 100px;
+  border-style: dotted;
+  margin: auto;
+  
+}
+.rbox{
+  display: grid;
+  margin: auto;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center ;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 }
 
-
-.image-container {
+.imageholder{
   height: 400px;
+  justify-content: space-around;
+  align-items: center;
+  margin: auto;
+  
  
+
 }
+
 
 img {
   height: 400px;
+  margin: auto;
 
 }
 
-.img-data{
-  text-align: center;
-}
