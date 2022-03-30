@@ -12,14 +12,17 @@ $.ajax(`https://pokeapi.co/api/v2/pokemon/${text}/`).then(
 
     const $img = $('<img id="#imagebox">');
 
-$img.attr(`{data.sprites.front_default}`.data.url)
+$img.attr("src",data.sprites.other["official-artwork"].front_default
+)
+// notice how plug in the info for the api, call upon data,the object then the section
 // notice how plug in the info for the api, call upon data,the object then the section
 
-$img.attr("src" , data.url)
+$img.appendTo(".imageholder");
 
-// notice how plug in the info for the api, call upon data,the object then the section
+$button.on('click', ()  => {
 
-$img.appendTo(".#imageholder");
+    $(".imageholder").children().remove()})
+    // removes image from image holder to add the next image
 
 
  $('#title').text(data.title);
