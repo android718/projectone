@@ -17,4 +17,4 @@ The goal of this project is as follows:
     2. The name with the pokemon will generate along with the image weight, and pokemon number.
 
 
-[Project Screenshot](/android718/projectone/blob/main/PokeGallery.png)
+[Project Screenshot](/PokeGallery.png)
