@@ -3,6 +3,7 @@
 For my project, I utilized the Pokemon API in order to create a small pokedex. 
 
 Technologies Used: 
+
  1. Javascript 
  2. Pokemon API
  3. HTML
@@ -26,6 +27,7 @@ The goal of this project is as follows:
 
 
 Future updates:
+
   1. Mobile Optimization
   2. Adding abilities and evolutions
   3. Build a pokedex from scratch with CSS
