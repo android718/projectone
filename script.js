@@ -14,8 +14,6 @@ $.ajax(`https://pokeapi.co/api/v2/pokemon/${text}/`).then(
 
 $img.attr("src",data.sprites.other["official-artwork"].front_default
 )
-// notice how plug in the info for the api, call upon data,the object then the section
-// notice how plug in the info for the api, call upon data,the object then the section
 
 $img.appendTo(".imageholder");
 
@@ -35,7 +33,5 @@ $button.on('click', ()  => {
 
  });
  
-// add the then part
 
-// there is no value, ajax call is running on ageoad and not value
 
