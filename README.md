@@ -2,14 +2,14 @@
 
 For my project, I utilized the Pokemon API in order to create a small pokedex. 
 
-Technologies Used: 
 
- 1. Javascript 
- 2. Pokemon API
- 3. HTML
- 4. CSS
- 5. JQuery
-
+Technologies Used:
+  
+  1. Javascript 
+  2. Pokemon API
+  3. HTML
+  4. CSS
+  5. JQuery
 
 
 MVP is met by generating the following:
