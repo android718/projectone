@@ -9,6 +9,8 @@ Technologies Used:
  4. CSS
  5. JQuery
 
+
+
 MVP is met by generating the following:
         1. Image
         2. Pokemon Name
