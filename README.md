@@ -17,4 +17,9 @@ The goal of this project is as follows:
     2. The name with the pokemon will generate along with the image weight, and pokemon number.
 
 
+Future updates:
+  1. Mobile Optimization
+  2. Adding abilities and evolutions
+  3. Build a pokedex from scratch with CSS
+  
 [Project Screenshot](/PokeGallery.png)
