@@ -12,6 +12,7 @@ Technologies Used:
 
 
 MVP is met by generating the following:
+
         1. Image
         2. Pokemon Name
         3. Pokemon Weight
@@ -19,6 +20,7 @@ MVP is met by generating the following:
 Getting Started: 
 
 The goal of this project is as follows:
+
     1. Enter a name of a pokemon in the search bar
     2. The name with the pokemon will generate along with the image weight, and pokemon number.
 
