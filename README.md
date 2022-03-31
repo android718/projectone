@@ -1,7 +1,7 @@
-# projectone
-Title: Pokèdex Gallery
+# Pokèdex Gallery
+
 For my project, I utilized the Pokemon API in order to create a small pokedex. 
-,
+
 Technologies Used: Javascript (Ajax, Pokemon API), HTML, CSS, JQuery
 
 MVP is met by the following:
@@ -21,5 +21,5 @@ Future updates:
   1. Mobile Optimization
   2. Adding abilities and evolutions
   3. Build a pokedex from scratch with CSS
-  
+
 [Project Screenshot](/PokeGallery.png)
