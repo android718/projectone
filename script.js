@@ -39,8 +39,3 @@ $button.on('click', ()  => {
 
 // there is no value, ajax call is running on ageoad and not value
 
-
-// //document.querySelector("#imageBox").class = `
-//<div>
-////<img src="${data.sprites.other["official-artwork"].front_default}"
-// </div>`
